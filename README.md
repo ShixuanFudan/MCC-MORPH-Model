@@ -35,7 +35,7 @@ pip install torch torch_geometric pandas numpy scikit-learn networkx tqdm matplo
 ```
 ##⚠️💡 Prepare documents
 
-Please download the Rawdata-Model/ folder: https://zenodo.org/uploads/21309729 
+Please download the Rawdata-Model/ folder: https://doi.org/10.5281/zenodo.21309729
 
 ## 📂 Repository & Data Architecture
 
