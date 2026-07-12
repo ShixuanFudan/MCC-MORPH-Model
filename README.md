@@ -33,9 +33,7 @@ Install the required scientific and deep learning dependencies via `pip`:
 ```bash
 pip install torch torch_geometric pandas numpy scikit-learn networkx tqdm matplotlib seaborn lightgbm joblib rdkit
 ```
-##⚠️💡 Prepare documents
 
-Please download the Rawdata-Model/ folder: https://doi.org/10.5281/zenodo.21309729
 
 ## 📂 Repository & Data Architecture
 
@@ -52,6 +50,9 @@ Please download the Rawdata-Model/ folder: https://doi.org/10.5281/zenodo.213097
 │   ├── enhanced_features.pkl/       
 │   └── graph_data.pkl/       
 ```
+##⚠️💡 Prepare documents
+
+Please download the Rawdata-Model/ folder: https://doi.org/10.5281/zenodo.21309729
 
 ## 💻 Model training
 ### Step 1: GNN feature fusion
