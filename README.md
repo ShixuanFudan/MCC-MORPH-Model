@@ -54,6 +54,9 @@ pip install torch torch_geometric pandas numpy scikit-learn networkx tqdm matplo
 
 Please download the Rawdata-Model/ folder: https://doi.org/10.5281/zenodo.21309729
 
+> 💡Note: After downloading, please unzip all files, create a new Rawdata file and put it in
+
+
 ## 💻 Model training
 ### Step 1: GNN feature fusion
 
