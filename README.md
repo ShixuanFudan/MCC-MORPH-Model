@@ -77,13 +77,19 @@ python 2.Classifier.py
 We extend our deepest gratitude to the clinical pharmacists and collaborators who made the stringent double-blind validation possible:
 
 Shixuan.Z  (Algorithm Implementation)
+
 ZhenQiu.L (Algorithm Implementation)
+
 Jingru.G (Clinical Pharmacist, Independent Blinded Rater)
+
 Shun.S (Clinical Pharmacist, Independent Blinded Rater)
 
 ## ✉️ Contact & Citatio
+
 Author: Shixuan Zhang
+
 Institution: Fudan University, Shanghai, China
+
 Email: sxzhang21@m.fudan.edu.cn
 
 
