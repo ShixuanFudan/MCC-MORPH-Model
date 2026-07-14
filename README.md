@@ -21,7 +21,7 @@
 [![R Version](https://img.shields.io/badge/R-4.3%2B-green.svg)](https://www.r-project.org/)
 [![License](https://img.shields.io/badge/License-MIT-darkgray.svg)](LICENSE)
 
-**MORPH (formerly)** is an advanced, multi-target drug discovery (MTDD) framework designed to decipher complex metabolic comorbidity clusters (MCCs) and prioritize synergistic drug combinations via deep learning and network pharmacology. 
+**MORPH** is an advanced, multi-target drug discovery (MTDD) framework designed to decipher complex metabolic comorbidity clusters (MCCs) and prioritize synergistic drug combinations via deep learning and network pharmacology. 
 
 ## 🛠️ Environmental Prerequisites
 
