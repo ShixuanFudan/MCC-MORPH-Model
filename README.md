@@ -1,18 +1,18 @@
               
-                                   MORPH-Model Framework
-                  
-                        ███╗   ███╗ ██████╗ ██████╗ ██████╗ ██╗  ██╗
-                        ████╗ ████║██╔═══██╗██╔══██╗██╔══██╗██║  ██║
-                        ██╔████╔██║██║   ██║██████╔╝██████╔╝███████║
-                        ██║╚██╔╝██║██║   ██║██╔══██╗██╔═══╝ ██╔══██║
-                        ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║     ██║  ██║
-                        ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
-                  
-                        [AI] --> ( proteome reversal ) --> [ Score ]
-                       
-                     MORPH: AI-Driven Molecular Morphology & DPI Predictor
-                     [■] TASK: Drug-Protein Interaction [■] VER: 1.1.0
-                     [■] AUTH: Shixuan.Z & ZhenQiu.L    [■] SYS: Mac M or Win 10
+                                       MORPH-Model Framework
+                      
+                            ███╗   ███╗ ██████╗ ██████╗ ██████╗ ██╗  ██╗
+                            ████╗ ████║██╔═══██╗██╔══██╗██╔══██╗██║  ██║
+                            ██╔████╔██║██║   ██║██████╔╝██████╔╝███████║
+                            ██║╚██╔╝██║██║   ██║██╔══██╗██╔═══╝ ██╔══██║
+                            ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║     ██║  ██║
+                            ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
+                      
+                            [AI] --> ( proteome reversal ) --> [ Score ]
+                           
+                         MORPH: AI-Driven Molecular Morphology & DPI Predictor
+                         [■] TASK: Drug-Protein Interaction [■] VER: 1.1.0
+                         [■] AUTH: Shixuan.Z & ZhenQiu.L    [■] SYS: Mac M or Win 10
 
     
 # 🧬 MORPH: An AI-Driven Framework for Proteome Reversal Score (PPMS) & Drug-Protein Interaction Prediction
